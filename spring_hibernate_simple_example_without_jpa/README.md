@@ -1,0 +1,2 @@
+# spring_hibernate_simple_example_without_jpa
+spring_hibernate_simple_example_without_jpa

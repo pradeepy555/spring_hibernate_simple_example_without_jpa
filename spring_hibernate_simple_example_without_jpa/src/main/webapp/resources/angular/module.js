@@ -1,0 +1,1 @@
+var empmodule=angular.module("empmodule",[]);
